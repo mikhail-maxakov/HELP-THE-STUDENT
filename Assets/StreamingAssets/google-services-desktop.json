@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "917159978896",
+    "project_id": "halp-the-student",
+    "storage_bucket": "halp-the-student.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917159978896:android:c0daa07fc64331a90df515",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.HELPTHESTUDENT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917159978896-02cnasu0lgp5d3ns0f2b2gbrpk2re8cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhv0P6r8SCCaw1hMFUNsrW5nRfYSn7QoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917159978896-02cnasu0lgp5d3ns0f2b2gbrpk2re8cg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "917159978896-2seld971u8d4sm6fcmbtbvv8hvaaecrp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.HELPTHESTUDENT"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
